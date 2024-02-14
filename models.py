@@ -9,3 +9,4 @@ class Item(BaseModel):
     category: str
     user_id: str
     access_token: str
+    refresh_token: str
